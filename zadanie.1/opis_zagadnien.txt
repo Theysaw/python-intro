@@ -1,0 +1,11 @@
+Funkcja wbudowana zip(): Funkcja zip() służy do łączenia wielu iterowalnych obiektów (takich jak listy czy krotki) w jeden iterator, który zwraca krotki zawierające elementy z każdej z przekazanych iterowalnych kolekcji. Iteracja kończy się, gdy najkrótsza z kolekcji zostanie wyczerpana.
+
+Link do dokumentacji: https://docs.python.org/3/library/functions.html#zip
+
+Moduł math: Moduł math w bibliotece standardowej Pythona oferuje dostęp do funkcji matematycznych zdefiniowanych przez standard C. Zawiera funkcje takie jak sin(), cos(), sqrt() oraz stałe matematyczne jak pi i e.
+
+Link do dokumentacji: https://docs.python.org/3/library/math.html
+
+Wyjątek ValueError: ValueError jest wyjątkiem zgłaszanym, gdy operacja lub funkcja otrzymuje argument o poprawnym typie, ale o nieodpowiedniej wartości, a sytuacja nie jest opisana przez bardziej precyzyjny wyjątek, taki jak IndexError.
+
+Link do dokumentacji: https://docs.python.org/3/library/exceptions.html#ValueError
