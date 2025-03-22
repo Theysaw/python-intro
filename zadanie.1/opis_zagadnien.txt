@@ -1,3 +1,5 @@
+Link do github: https://github.com/Theysaw/python-intro
+
 Funkcja wbudowana zip(): Funkcja zip() służy do łączenia wielu iterowalnych obiektów (takich jak listy czy krotki) w jeden iterator, który zwraca krotki zawierające elementy z każdej z przekazanych iterowalnych kolekcji. Iteracja kończy się, gdy najkrótsza z kolekcji zostanie wyczerpana.
 
 Link do dokumentacji: https://docs.python.org/3/library/functions.html#zip
